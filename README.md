@@ -44,7 +44,7 @@ where I helped develop and maintain education-sector digital platforms.
 ## 🚀 Languages and Tools:
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=php,laravel,bootstrap,chartjs,css,docker,git,github,graphql,html,js,linux,mysql,nextjs,nodejs,react,sass,tailwind,vue,webpack" />
+<img src="https://skillicons.dev/icons?i=php,laravel,bootstrap,css,docker,git,github,graphql,html,js,linux,mysql,nextjs,nodejs,react,sass,tailwind,vue,webpack" />
 </p>
 
 ### 👨‍👩‍👧 Beyond Code
