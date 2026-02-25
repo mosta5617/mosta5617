@@ -2,7 +2,7 @@
 
 💻 **Professional Web Developer | Government IT Professional | EdTech Innovator**
 
----
+-
 
 ### 🚀 About Me
 
@@ -102,5 +102,5 @@ You can explore my development work here:
 ## 🚀 Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,bootstrap,chartjs,css,docker,git,github,graphql,html,js,linux,mysql,nextjs,nodejs,php,react,sass,tailwind,vue,webpack" />
+<img width="25" height="25" style=”max-width: 100%; height: auto; max-height: 25px;” src="https://skillicons.dev/icons?i=php,laravel,livewire,bootstrap,chartjs,css3,docker,git,github,graphql,html5,js,linux,mysql,nextjs,nodejs,react,sass,tailwind,vue,webpack" />
 </p>
