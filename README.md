@@ -2,7 +2,6 @@
 
 💻 **Professional Web Developer | Government IT Professional | EdTech Innovator**
 
--
 
 ### 🚀 About Me
 
@@ -17,22 +16,19 @@ Previously, I worked as an **Assistant Programmer** at
 🏫 Directorate of Secondary and Higher Education (DSHE),
 where I helped develop and maintain education-sector digital platforms.
 
----
 
 ### 🎓 Education
 
 🎓 B.Sc. in Engineering (Information & Communication Engineering - ICE)
 🏛️ University of Rajshahi
 
----
 
 ### 🌐 Founder
 
-🚀 Founder of **Free MCQ**
-Bangladesh’s largest free job exam preparation platform —
-✨ *One Destination for Complete Exam Preparation*
+🚀 Founder & Developer of **[Free MCQ](https://freemcq.com/)**  
 
----
+🎯 Bangladesh’s Largest Free Job Exam Preparation Platform  
+✨ *One Destination for Complete Exam Preparation*
 
 ### 🛠️ What I Do
 
@@ -42,46 +38,11 @@ Bangladesh’s largest free job exam preparation platform —
 🔹 Education Data Management Systems
 🔹 Scalable & Secure Laravel Architectures
 
----
+## 🚀 Languages and Tools:
 
-## 🚀 Languages and Tools
-
-### 💻 Backend
-
-* 🟢 PHP
-* 🔵 Laravel
-* ⚡ Laravel Livewire
-* 🔴 Laravel Reverb
-* REST API Development
-
-### 🗄️ Database
-
-* 🐬 MySQL
-* 🗃️ Database Design & Optimization
-
-### 🎨 Frontend
-
-* 🌐 HTML5
-* 🎨 CSS3
-* 🟡 JavaScript
-* 🅱️ Bootstrap
-* ⚡ Alpine.js
-
-### 🛠️ Tools & DevOps
-
-* 🐙 Git & GitHub
-* 🖥️ Linux Server Management
-* 🔐 Web Security Implementation
-* 📊 System Architecture Planning
-
----
-
-### 📂 GitHub Presence
-
-You can explore my development work here:
-🔗 [https://github.com/mosta5617](https://github.com/mosta5617)
-
----
+<p align="left">
+<img width="25" height="25" style="max-width: 100%; height: auto; max-height: 25px;" src="https://skillicons.dev/icons?i=php,laravel,livewire,bootstrap,chartjs,css3,docker,git,github,graphql,html5,js,linux,mysql,nextjs,nodejs,react,sass,tailwind,vue,webpack" />
+</p>
 
 ### 👨‍👩‍👧 Beyond Code
 
@@ -89,18 +50,9 @@ You can explore my development work here:
 ✈️ Love traveling & exploring new places
 📚 Passionate about skill-based education & practical curriculum reform
 
----
+### 📫 How to reach me
 
-### 💡 Vision
-
-> Building Scalable Digital Solutions for Smarter Education in Bangladesh 🇧🇩
-
----
+📘 Facebook: https://facebook.com/mostafijur.ice  
+💬 WhatsApp: https://wa.me/8801737818099
 
 ⭐ *Thank you for visiting my profile! Feel free to explore, fork, and collaborate.*
-
-## 🚀 Languages and Tools:
-
-<p align="left">
-<img width="25" height="25" style=”max-width: 100%; height: auto; max-height: 25px;” src="https://skillicons.dev/icons?i=php,laravel,livewire,bootstrap,chartjs,css3,docker,git,github,graphql,html5,js,linux,mysql,nextjs,nodejs,react,sass,tailwind,vue,webpack" />
-</p>
