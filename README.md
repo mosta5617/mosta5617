@@ -41,7 +41,7 @@ where I helped develop and maintain education-sector digital platforms.
 ## 🚀 Languages and Tools:
 
 <p align="left">
-<img width="25" height="25" style="max-width: 100%; height: auto; max-height: 25px;" src="https://skillicons.dev/icons?i=php,laravel,livewire,bootstrap,chartjs,css3,docker,git,github,graphql,html5,js,linux,mysql,nextjs,nodejs,react,sass,tailwind,vue,webpack" />
+<img src="https://skillicons.dev/icons?i=php,laravel,livewire,bootstrap,chartjs,css3,docker,git,github,graphql,html5,js,linux,mysql,nextjs,nodejs,react,sass,tailwind,vue,webpack" />
 </p>
 
 ### 👨‍👩‍👧 Beyond Code
@@ -54,5 +54,11 @@ where I helped develop and maintain education-sector digital platforms.
 
 📘 Facebook: https://facebook.com/mostafijur.ice  
 💬 WhatsApp: https://wa.me/8801737818099
+
+### 📫 How to reach me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mostafijur.ice)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801737818099)
 
 ⭐ *Thank you for visiting my profile! Feel free to explore, fork, and collaborate.*
