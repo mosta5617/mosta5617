@@ -25,10 +25,13 @@ where I helped develop and maintain education-sector digital platforms.
 
 ### 🌐 Founder
 
-🚀 Founder & Developer of **[Free MCQ](https://freemcq.com/)**  
+🚀 Founder & Developer of 
+<a href="https://freemcq.com/" target="_blank" style="text-decoration:none;">
+  <b>Free MCQ</b>
+</a>  
 
 🎯 Bangladesh’s Largest Free Job Exam Preparation Platform  
-✨ *One Destination for Complete Exam Preparation*
+✨ <i>One Destination for Complete Exam Preparation</i>
 
 ### 🛠️ What I Do
 
@@ -41,7 +44,7 @@ where I helped develop and maintain education-sector digital platforms.
 ## 🚀 Languages and Tools:
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=php,laravel,livewire,bootstrap,chartjs,css3,docker,git,github,graphql,html5,js,linux,mysql,nextjs,nodejs,react,sass,tailwind,vue,webpack" />
+<img src="https://skillicons.dev/icons?i=php,laravel,bootstrap,chartjs,css,docker,git,github,graphql,html,js,linux,mysql,nextjs,nodejs,react,sass,tailwind,vue,webpack" />
 </p>
 
 ### 👨‍👩‍👧 Beyond Code
@@ -52,13 +55,7 @@ where I helped develop and maintain education-sector digital platforms.
 
 ### 📫 How to reach me
 
-📘 Facebook: https://facebook.com/mostafijur.ice  
-💬 WhatsApp: https://wa.me/8801737818099
-
-### 📫 How to reach me
-
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mostafijur.ice)
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801737818099)
 
 ⭐ *Thank you for visiting my profile! Feel free to explore, fork, and collaborate.*
