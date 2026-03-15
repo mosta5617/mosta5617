@@ -33,13 +33,28 @@ where I helped develop and maintain education-sector digital platforms.
 🎯 Bangladesh’s Largest Free Job Exam Preparation Platform  
 ✨ <i>One Destination for Complete Exam Preparation</i>
 
-### 🛠️ What I Do
+### 🛠️ Technical Stack
 
-🔹 Government & Institutional Web Systems
-🔹 Training Management & Result Automation
-🔹 Real-Time Web Applications
-🔹 Education Data Management Systems
-🔹 Scalable & Secure Laravel Architectures
+🔹 PHP
+🔹 Laravel
+🔹 Livewire
+🔹 Javascript
+🔹 React JS
+🔹 Vue JS
+🔹 Python
+🔹 Bootstrap
+🔹 Wordpress
+🔹 CSS3
+🔹 Tailwind CSS
+🔹 HTML5
+🔹 SQL
+🔹 MySQL
+🔹 MS Access
+🔹 SQLite
+🔹 Git & Github
+🔹 Github Action
+🔹 Linux Server
+🔹 Cpanel Hosting
 
 ## 🚀 Languages and Tools:
 
