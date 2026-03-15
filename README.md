@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Mostafijur Rahman
 
-💻 **Professional Web Developer | Government IT Professional | EdTech Innovator**
+💻 **Full Stack Web Developer | Government IT Professional | EdTech Innovator**
 
 
 ### 🚀 About Me
