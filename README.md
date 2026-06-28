@@ -39,14 +39,20 @@ where I helped develop and maintain education-sector digital platforms.
 🔹 Laravel
 🔹 Livewire
 🔹 Javascript
+🔹 jQuery
+🔹 AJAX
+🔹 JSON
 🔹 React JS
 🔹 Vue JS
 🔹 Python
 🔹 Bootstrap
+🔹 UI/UX
 🔹 Wordpress
 🔹 CSS3
 🔹 Tailwind CSS
+🔹 Font Awesome
 🔹 HTML5
+🔹 SEO
 🔹 SQL
 🔹 MySQL
 🔹 MS Access
@@ -55,6 +61,9 @@ where I helped develop and maintain education-sector digital platforms.
 🔹 Github Action
 🔹 Linux Server
 🔹 Cpanel Hosting
+🔹 Web Security
+🔹 Apache
+🔹 Postman
 
 ## 🚀 Languages and Tools:
 
