@@ -70,7 +70,7 @@ where I helped develop and maintain education-sector digital platforms.
 🔹 Postman
 🔹 Github CI/CD
 
-[![Md. Motafijur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosta5617&show_icons=true&theme=radical)](https://github.com/mosta5617)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mosta5617&theme=default&name=Md.+Mostafijur+Rahman)
 
 ## 🚀 Languages and Tools:
 
