@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Mostafijur Rahman
+## 👋 Hi there, I'm Md. Mostafijur Rahman
 
 💻 **Full Stack Web Developer | Government IT Professional | EdTech Innovator**
 
@@ -33,7 +33,7 @@ where I helped develop and maintain education-sector digital platforms.
 🎯 Bangladesh’s Largest Free Job Exam Preparation Platform  
 ✨ <i>One Destination for Complete Exam Preparation</i>
 
-### 🛠️ Technical Stack
+### 🛠️ Technical Skill
 
 🔹 PHP
 🔹 Laravel
@@ -68,11 +68,14 @@ where I helped develop and maintain education-sector digital platforms.
 🔹 Web Security
 🔹 Apache
 🔹 Postman
+🔹 Github CI/CD
+
+[![Md. Motafijur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosta5617&show_icons=true&theme=radical)](https://github.com/mosta5617)
 
 ## 🚀 Languages and Tools:
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=php,laravel,bootstrap,css,docker,git,github,graphql,html,js,linux,mysql,nextjs,nodejs,react,sass,tailwind,vue,webpack,c,c++,java" />
+<img src="https://skillicons.dev/icons?i=php,laravel,bootstrap,css,docker,git,github,graphql,html,js,linux,mysql,nextjs,nodejs,react,sass,tailwind,vue,webpack,c,cpp,java" />
 </p>
 
 ### 👨‍👩‍👧 Beyond Code
